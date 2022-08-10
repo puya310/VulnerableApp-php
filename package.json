@@ -2,6 +2,10 @@
   "scripts": {
     "prettier": "prettier"
   },
+  "dependencies":{
+  "@prettier/plugin-php": "^0.17.5",
+    "prettier": "^0.2.1"
+  }
   "devDependencies": {
     "@prettier/plugin-php": "^0.17.5",
     "prettier": "^2.4.0"
